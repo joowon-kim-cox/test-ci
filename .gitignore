@@ -6,3 +6,4 @@
 /.vs/slnx.sqlite
 /coverage.xml
 /.coverage
+/.tox/log
