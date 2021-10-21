@@ -1,0 +1,6 @@
+pyproject.toml
+setup.py
+mantaci.egg-info/PKG-INFO
+mantaci.egg-info/SOURCES.txt
+mantaci.egg-info/dependency_links.txt
+mantaci.egg-info/top_level.txt
